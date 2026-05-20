@@ -1,19 +1,19 @@
-AI Career Guidance System
+# AI Career Guidance System
 
 A simple Python-based career guidance system that recommends suitable careers based on user interests and selected fields.
 
-Features
+## Features
 
 - Interactive user input
 - Career recommendations
 - Input validation
 - Multiple career categories
 
-Technologies Used
+## Technologies Used
 
 - Python
 
-How It Works
+## How It Works
 
 The user selects:
 1. An interest category
@@ -21,7 +21,7 @@ The user selects:
 
 The system then suggests matching careers.
 
-Example
+## Example
 
 ```bash
 Choose your interest: Technology
@@ -33,13 +33,13 @@ Recommended Careers:
 - App Developer
 ```
 
-Run the Project
+## Run the Project
 
 ```bash
 python main.py
 ```
 
-Author
+## Author
 
 Dana Suwaylih Aljuaid  
 Computer Science Student at University of Jeddah
